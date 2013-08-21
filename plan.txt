@@ -1,0 +1,23 @@
+header:
+   -font to use:
+	Trajan Pro - Logo
+
+
+
+
+
+Database information
+
+information that a transaction needs
+
+
+user
+pass
+Name
+middle
+surname
+flight class
+Time Arrival
+Schedule of Flight
+Destination
+	

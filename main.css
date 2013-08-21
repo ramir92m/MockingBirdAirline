@@ -1,0 +1,184 @@
+body
+{
+	margin:0;
+	padding:0;
+	
+}
+
+#header
+{
+	
+	
+	margin-left:10em;
+	margin-right:10em;
+	
+	background-color:white;
+	background-repeat:no-repeat;
+	height:23%;
+}
+
+#logo
+{
+	
+	background-image:url('img/logo.png');
+	position:absolute;
+	width:78.8%;
+	height:10em;
+	background-repeat:no-repeat;
+	
+	
+}
+
+.meow 
+{
+	list-style-type:none;
+	position:relative;
+	float:right;
+	padding-left:3%;
+	font-family:"Calibri";
+	
+}
+.meow li
+{
+	list-style-type:none;
+	position:relative;
+	float:left;
+	padding-right:1.5em;
+	padding-left:1.5em;
+	font-weight:900;
+	font-size: 20px;	
+	border-left:2px solid;
+	border-left-color:#eec10e;
+	border-right:1px solid;
+	border-right-color:#eec10e;
+}
+a:link
+{
+	text-decoration:none;
+	color:black;
+	
+	
+}
+a:hover
+{
+	background-color:#f8ce0b;
+}
+a:visited
+{
+	text-decoration:none;
+	color:black;
+	
+	
+}
+
+#nav
+{
+	height:.5%;
+	background-color:#e0e0da;
+	text-indent:-12030px;
+	
+	
+}
+#content
+{
+	
+	margin-left:80px;
+	margin-right:80px;
+	/*background-color:lightgreen; */
+	height:70%;
+	margin-left:10em;
+	margin-right:10em;
+	
+	
+}
+#footer
+{
+	margin-left:10em;
+	margin-right:10em;
+	background-color:black;
+	margin-bottom:-1em;
+	height:.2em;
+}
+
+#welheader
+{
+	height:2em;
+	background-color:#fcf53a;
+}
+#contentone
+{
+	float:left;
+	
+	width:21.7em;
+	height:20em;
+	margin-top:2em;
+	background-image:url('img/content1.png');
+	background-repeat:no-repeat;
+}
+#contenttwo
+{
+	float:left;
+	
+	width:21.7em;
+	height:20em;
+	margin-top:2em;
+	background-image:url('img/content2.png');
+	background-repeat:no-repeat;
+}
+
+#contentthree
+{
+	float:left;
+	
+	width:21.7em;
+	height:20em;
+	margin-top:2em;
+	background-image:url('img/content3.png');
+	background-repeat:no-repeat;
+}
+
+#contentone ,#contenttwo,#contentthree
+{
+	margin-right:1em;
+	position:relative;
+	left:3em;
+}
+
+#contentonesub ,#contenttwosub,#contentthreesub
+{
+	float:left;
+	
+	width:21.7em;
+	height:2em;
+	
+	margin-right:1em;
+	position:relative;
+	left:3em;
+	top:-5em;
+	
+	font-family:"Arial";
+}
+
+#about-content
+{
+	height:22em;
+	background-image:url('img/about-content.png'); 
+	background-repeat:no-repeat;
+	position:relative;
+	
+	width:25em;
+	
+}
+
+#about-contenttwo
+{
+	height:22em;
+	
+	background-repeat:no-repeat;
+	position:absolute;
+	top:11.5em;
+	left:40.5em;
+	width:25em;
+	
+}
+
